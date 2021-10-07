@@ -2,7 +2,7 @@
 
 <hr>
 
-- Learning and solving problems
-- Python, React, JavaScript, and Web Development is my forte.
-- Working on a project? Message me if you need help or need some insight.
-- Have any questions? Message me!
+- 📝 Learning and solving problems
+- 👨‍💻 Python, React, JavaScript, and Web Development is my forte.
+- 📝 Working on a project? Message me if you need help or need some insight.
+- 📫 Have any questions? Message me allenstfort@gmail.com!
