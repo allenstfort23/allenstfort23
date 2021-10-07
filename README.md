@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @allenstfort23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Allenstfort@gmail.com
+<h3>“First, solve the problem. Then, write the code.” – John Johnson</h3>
 
-<!---
-allenstfort23/allenstfort23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<hr>
+
+- Learning and solving problems
+- Python, React, JavaScript, and Web Development is my forte.
+- Working on a project? Message me if you need help or need some insight.
+- Have any questions? Message me!
