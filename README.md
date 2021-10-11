@@ -2,9 +2,10 @@
 
 <hr>
 <h2>Hi 👋 , Welcome to my profile!</h2>
-<br>
 <h4>  🃏 I'm currently working on a card sorting application using bubble Alogrithm. </h4>
+<h4>  💻  Also, I'm currently learning some new languages and topics </h4>
 <br>
+<hr>
 
 - 📝 Learning and solving problems
 - 👨‍💻 Python, React, JavaScript, and Web Development is my forte.
