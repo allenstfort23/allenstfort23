@@ -1,6 +1,10 @@
 <h3>“First, solve the problem. Then, write the code.” – John Johnson</h3>
 
 <hr>
+<h2>Hi 👋 , Welcome to my profile!</h2>
+<br>
+<h4>  🃏 I'm currently working on a card sorting application using bubble Alogrithm. </h4>
+<br>
 
 - 📝 Learning and solving problems
 - 👨‍💻 Python, React, JavaScript, and Web Development is my forte.
