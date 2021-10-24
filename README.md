@@ -1,5 +1,5 @@
 <h1 align="center”>Allen St Fort</h1>
-<h3 align="center”>Hi, I'm Allen St Fort. <br/>Welcome, to my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
+<h3 align="center">Hi, I'm Allen St Fort. <br/>Welcome, to my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 
 ## 🙋‍♂️ About Me
 - 🃏 I'm currently working on a card sorting application using bubble alogrithm.
