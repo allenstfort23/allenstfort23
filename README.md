@@ -6,7 +6,7 @@
 - 🃏 I'm currently working on a card sorting application using bubble alogrithm.
 - 📗 Also, I'm learning some new languages and topics.
 - 🌱 I’m currently learning data structure and algorithms.
-- 📝 Working on a project? Message me if you need help or need some insight.
+- 📝 Working on a project? Message me if you need help or some insight.
 - 💬 Ask me about programming and science
 - 📫 Have any questions or need to hire a developer? Message me at allenstfort@gmail.com ! or https://www.linkedin.com/in/allenstfort/
 - 👣 Follow me on here!
