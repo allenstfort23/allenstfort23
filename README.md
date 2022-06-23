@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Allen+St+Fort!;Look+around,;Contact+me+on+Linkedin.;If+you+have+questions.)](https://git.io/typing-svg)
 <h1 align="center">Allen St Fort</h1>
-<h3 align="center">Welcome, and thanks for visiting!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
+<h3 align="center">Welcome, and thanks for visiting!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3%"></h3>
 
 ## 🙋‍♂️ About Me
 - 🃏 I'm currently working on a card sorting application using bubble alogrithm.
