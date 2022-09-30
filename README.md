@@ -3,8 +3,8 @@
 <h3 align="center">Welcome, and thanks for visiting!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3%"></h3>
 
 ## 🙋‍♂️ About Me
-- 🃏 I'm currently working on a card sorting application using bubble alogrithm.
-- 📗 Also, I'm learning some new languages and topics.
+- 🃏 I'm currently working on building inventory app.
+- 📗 I'm learning some new languages and topics.
 - 🌱 I’m currently learning data structure and algorithms.
 - 📝 Working on a project? Message me if you need help or some insight.
 - 💬 Ask me about programming and science
